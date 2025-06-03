@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Riccardo
 - 👀 I’m interested everything in between Robotics & Deep Learning
-- 🌱 I’m currently working with some cool drones for aerial inspection.
+- 🌱 I’m currently working with some cool robots for doing various things.
 - 📫 feel free to ping me at riccardo.franceschini@live.it
 
 <!---
